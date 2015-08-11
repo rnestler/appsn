@@ -11,5 +11,10 @@
   "developer": {
     "name": "Your name",
     "url": "http://example.com"
+  },
+  "permissions": {
+    "desktop-notification": {
+      "description": "We wan't to notify you!"
+    }
   }
 }
